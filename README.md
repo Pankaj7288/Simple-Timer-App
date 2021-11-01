@@ -1,4 +1,4 @@
-# My-React-app
+# Simple-Timer-app
 
 # How to run!
 
